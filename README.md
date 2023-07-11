@@ -4,5 +4,5 @@ Code repository for the paper "The Diversity of the Microbiome Impacts Chronic L
 ## Software requirements
 Tested on R version 4.2.0
 
-## Correspondance
+## Correspondence
 Queries shall be forwarded to: tereza.faitova@regionh.dk
