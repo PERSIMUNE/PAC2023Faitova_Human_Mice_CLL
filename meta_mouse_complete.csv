@@ -1,0 +1,20 @@
+ID;Input ID.x;Subject ID;TM;collection_time;timepoint.x;ID_metag;Input ID.y;hygiene_level;timepoint.y;cage
+MUMS12873150ST;13;MUMS_16015_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS53587047ST;13;High Hygiene;after injection;190314
+MUMS19643958ST;30;MUMS_77_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS37082877ST;30;Low Hygiene;before injection;200960
+MUMS20848112ST;30;MUMS_77_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS76178091ST;30;Low Hygiene;after injection;200960
+MUMS21135597ST;11;MUMS_16017_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS13525530ST;11;High Hygiene;after injection;190314
+MUMS27468540ST;28;MUMS_79_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS78984074ST;28;Low Hygiene;before injection;200960
+MUMS37080688ST;35;MUMS_100_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS40764107ST;35;Low Hygiene;after injection;200959
+MUMS46110413ST;11;MUMS_16017_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS51381287ST;11;High Hygiene;before injection;190314
+MUMS52391397ST;28;MUMS_79_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS18411191ST;28;Low Hygiene;after injection;200960
+MUMS60408827ST;29;MUMS_78_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS20151352ST;29;Low Hygiene;before injection;200960
+MUMS63265818ST;35;MUMS_100_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS97105918ST;35;Low Hygiene;before injection;200959
+MUMS68738747ST;10;MUMS_16018_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS71693578ST;10;High Hygiene;before injection;190314
+MUMS72303276ST;29;MUMS_78_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS44101684ST;29;Low Hygiene;after injection;200960
+MUMS85176887ST;34;MUMS_101_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS82951367ST;34;Low Hygiene;after injection;200959
+MUMS85652953ST;34;MUMS_101_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS83082484ST;34;Low Hygiene;before injection;200959
+MUMS86214809ST;10;MUMS_16018_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS46845697ST;10;High Hygiene;after injection;190314
+MUMS90150868ST;13;MUMS_16015_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS75175549ST;13;High Hygiene;before injection;190314
+MUMS92017732ST;12;MUMS_16016_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS61883740ST;12;High Hygiene;after injection;190314
+MUMS94819559ST;18;MUMS_99_25.9.18;1;25.9.18 (after tumor establishment);after injection;MUMS94032423ST;18;Low Hygiene;after injection;200959
+MUMS99662034ST;18;MUMS_99_3.9.18;0;3.9.18 (before tumor injection);before injection;MUMS80803712ST;18;Low Hygiene;before injection;200959
