@@ -1,0 +1,90 @@
+R version 4.2.0 (2022-04-22 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19044)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_Denmark.utf8  LC_CTYPE=English_Denmark.utf8    LC_MONETARY=English_Denmark.utf8
+[4] LC_NUMERIC=C                     LC_TIME=English_Denmark.utf8    
+
+attached base packages:
+ [1] parallel  splines   stats4    grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+  [1] RVAideMemoire_0.9-83        indicspecies_1.7.13         pals_1.7                    ggalluvial_0.12.5          
+  [5] shinydashboard_0.7.2        shiny_1.7.2                 ANCOMBC_1.6.2               plot3D_1.4                 
+  [9] dartR_2.7.2                 dartR.data_1.0.2            adegenet_2.1.8              ade4_1.7-19                
+ [13] Publish_2020.12.23          remotes_2.4.2               labdsv_2.0-1                SIAMCAT_2.0.0              
+ [17] mlr3_0.13.4                 riskRegression_2022.03.22   pec_2022.05.04              cmprsk_2.2-11              
+ [21] mets_1.2.9                  lava_1.6.10                 timereg_2.0.2               prodlim_2019.11.13         
+ [25] randomcoloR_1.1.0.1         autoimage_2.2.3             plotrix_3.8-2               reghelper_1.1.1            
+ [29] openxlsx_4.2.5              readxl_1.4.0                pracma_2.3.8                foreign_0.8-82             
+ [33] haven_2.5.0                 gtools_3.9.3                GPArotation_2022.4-1        arules_1.7-3               
+ [37] pastecs_1.3.21              car_3.1-1                   carData_3.0-5               psych_2.2.5                
+ [41] ltm_1.2-0                   polycor_0.8-1               msm_1.6.9                   pROC_1.18.0                
+ [45] rms_6.3-0                   SparseM_1.81                Hmisc_4.7-1                 Formula_1.2-4              
+ [49] ROCR_1.0-11                 umap_0.2.8.0                corrplot_0.92               ggfortify_0.4.14           
+ [53] FactoMineR_2.4              factoextra_1.0.7            glmnet_4.1-4                cluster_2.1.4              
+ [57] digest_0.6.29               circlize_0.4.15             igraph_1.3.2                xtable_1.8-4               
+ [61] OTUtable_1.1.2              iNEXT_2.0.20                meta_5.5-0                  mgcv_1.8-40                
+ [65] lmerTest_3.1-3              lme4_1.1-30                 Matrix_1.4-1                gdata_2.18.0.1             
+ [69] metamicrobiomeR_1.2         gamlss_5.4-3                gamlss.dist_6.0-3           gamlss.data_6.0-2          
+ [73] knitr_1.40                  patchwork_1.1.1             propr_4.2.6                 zCompositions_1.4.0-1      
+ [77] truncnorm_1.0-8             NADA_1.6-1.1                survival_3.3-1              MASS_7.3-58.1              
+ [81] ggsignif_0.6.3              devtools_2.4.3              usethis_2.1.6               data.table_1.14.2          
+ [85] viridisLite_0.4.0           scales_1.2.0                compositions_2.0-4          nlme_3.1-157               
+ [89] DESeq2_1.36.0               SummarizedExperiment_1.26.1 Biobase_2.56.0              MatrixGenerics_1.8.1       
+ [93] matrixStats_0.62.0          GenomicRanges_1.48.0        GenomeInfoDb_1.32.2         IRanges_2.30.0             
+ [97] S4Vectors_0.34.0            BiocGenerics_0.42.0         pheatmap_1.0.12             gplots_3.1.3               
+[101] forcats_0.5.1               stringr_1.4.0               dplyr_1.0.9                 purrr_0.3.4                
+[105] readr_2.1.2                 tidyr_1.2.0                 tibble_3.1.7                tidyverse_1.3.2            
+[109] gridExtra_2.3               RColorBrewer_1.1-3          reshape2_1.4.4              plotly_4.10.0              
+[113] ggpubr_0.4.0                ggthemes_4.2.4              ggsci_2.9                   ggrepel_0.9.1              
+[117] ggplot2_3.3.6               vegan_2.6-2                 lattice_0.20-45             permute_0.9-7              
+[121] phyloseq_1.40.0            
+
+loaded via a namespace (and not attached):
+  [1] terra_1.6-17           tcltk_4.2.0            vctrs_0.4.1            expm_0.999-6           V8_4.2.0              
+  [6] beanplot_1.3.1         mmod_1.3.3             blob_1.2.3             later_1.3.0            nloptr_2.0.3          
+ [11] DBI_1.1.3              R.utils_2.12.0         gdsfmt_1.34.0          jpeg_0.1-9             zlibbioc_1.42.0       
+ [16] MatrixModels_0.5-0     htmlwidgets_1.5.4      mvtnorm_1.1-3          GlobalOptions_0.1.2    future_1.26.1         
+ [21] leaps_3.1              misc3d_0.9-1           DEoptimR_1.0-11        Rcpp_1.0.9             KernSmooth_2.23-20    
+ [26] DT_0.26                promises_1.2.0.1       DelayedArray_0.22.0    pkgload_1.3.0          RSpectra_0.16-1       
+ [31] fs_1.5.2               mnormt_2.1.0           png_0.1-7              polspline_1.1.20       pkgconfig_2.0.3       
+ [36] gridBase_0.4-7         StAMPP_1.6.3           iterators_1.0.14       minqa_1.2.4            lgr_0.4.3             
+ [41] reticulate_1.25        spam_2.9-0             xfun_0.31              zoo_1.8-10             tidyselect_1.2.0      
+ [46] bbotk_0.5.3            pkgbuild_1.3.1         rlang_1.0.6            glue_1.6.2             palmerpenguins_0.1.0  
+ [51] modelr_0.1.8           fields_14.0            labeling_0.4.2         GGally_2.1.2           httpuv_1.6.6          
+ [56] class_7.3-20           biomformat_1.24.0      TH.data_1.1-1          annotate_1.74.0        jsonlite_1.8.0        
+ [61] XVector_0.36.0         bit_4.0.4              mime_0.12              Exact_3.1              stringi_1.7.8         
+ [66] processx_3.7.0         gsl_2.1-7.1            rbibutils_2.2.8        Rdpack_2.3.1           rgdal_1.5-32          
+ [71] gap_1.3-1              quadprog_1.5-8         bitops_1.0-7           cli_3.3.0              rhdf5filters_1.8.0    
+ [76] maps_3.4.0             RSQLite_2.2.15         mlr3misc_0.10.0        SNPRelate_1.32.1       energy_1.7-10         
+ [81] rstudioapi_0.13        microbiome_1.18.0      locfit_1.5-9.6         gap.datasets_0.0.5     listenv_0.8.0         
+ [86] pegas_1.1              LiblineaR_2.10-12      paradox_0.9.0          R.oo_1.25.0            dbplyr_2.2.1          
+ [91] sessioninfo_1.2.2      lifecycle_1.0.3        mlr3learners_0.5.3     munsell_0.5.0          cellranger_1.1.0      
+ [96] R.methodsS3_1.8.2      mapproj_1.2.8          caTools_1.18.2         codetools_0.2-18       htmlTable_2.4.1       
+[101] admisc_0.29            flashClust_1.01-2      googlesheets4_1.0.0    directlabels_2021.1.13 scatterplot3d_0.3-41  
+[106] abind_1.4-5            farver_2.1.1           parallelly_1.32.0      askpass_1.1            CompQuadForm_1.4.3    
+[111] PopGenReport_3.0.7     dichromat_2.0-0.1      genetics_1.3.8.1.3     seqinr_4.2-23          future.apply_1.9.0    
+[116] ellipsis_0.3.2         prettyunits_1.1.1      lubridate_1.8.0        googledrive_2.0.0      reprex_2.0.1          
+[121] multtest_2.52.0        gdistance_1.6          gargle_1.2.0           htmltools_0.5.2        utf8_1.2.2            
+[126] XML_3.99-0.10          e1071_1.7-11           withr_2.5.0            BiocParallel_1.30.3    bit64_4.0.5           
+[131] rngtools_1.5.2         doRNG_1.8.2            rootSolve_1.8.2.3      infotheo_1.2.0.1       multcomp_1.4-20       
+[136] foreach_1.5.2          robustbase_0.95-0      Biostrings_2.64.0      combinat_0.0-8         raster_3.6-3          
+[141] memoise_2.0.1          geneplotter_1.74.0     tzdb_0.3.0             callr_3.7.1            lmom_2.9              
+[146] ps_1.7.1               curl_4.3.2             metafor_3.4-0          fansi_1.0.3            checkmate_2.1.0       
+[151] cachem_1.0.6           mlr3tuning_0.13.1      interp_1.1-2           deldir_1.0-6           tensorA_0.36.2        
+[156] rstatix_0.7.0          tools_4.2.0            sandwich_3.0-2         magrittr_2.0.3         proxy_0.4-27          
+[161] RCurl_1.98-1.7         ape_5.6-2              bayesm_3.1-4           xml2_1.3.3             httr_1.4.3            
+[166] assertthat_0.2.1       boot_1.3-28            globals_0.15.1         metadat_1.2-0          R6_2.5.1              
+[171] Rhdf5lib_1.18.2        nnet_7.3-18            progress_1.2.2         genefilter_1.78.0      KEGGREST_1.36.3       
+[176] shape_1.4.6            rhdf5_2.40.0           colorspace_2.0-3       generics_0.1.3         base64enc_0.1-3       
+[181] pillar_1.8.0           sp_1.5-0               calibrate_1.7.7        uuid_1.1-0             GenomeInfoDbData_1.2.8
+[186] plyr_1.8.7             dotCall64_1.0-1        gtable_0.3.0           rvest_1.0.2            zip_2.2.0             
+[191] RgoogleMaps_1.4.5.3    latticeExtra_0.6-30    fastmap_1.1.0          doParallel_1.0.17      PRROC_1.3.1           
+[196] quantreg_5.93          AnnotationDbi_1.58.0   broom_1.0.0            openssl_2.0.2          backports_1.4.1       
+[201] gld_2.6.5              hms_1.1.1              Rtsne_0.16             dismo_1.3-9            numDeriv_2016.8-1.1   
+[206] mathjaxr_1.6-0         DescTools_0.99.45      lazyeval_0.2.2         crayon_1.5.1           viridis_0.6.2         
+[211] reshape_0.8.9          rpart_4.1.16           compiler_4.2.0        
